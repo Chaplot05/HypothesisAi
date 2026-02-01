@@ -1,0 +1,14 @@
+timestamp,hypothesis,independent_var,dependent_var,correlation,confidence,dataset,x_var,y_var,p_value,result
+2026-02-01 16:35:18,students who binge watches more gets less marks,studytime,freetime,-0.1432,Low,,,,,
+2026-02-01 17:30,STUDENTS WHO GOES TO GYM MORE GETS SLEEP MORE,,,-0.0756,Low,Math,studytime,health,0.1336,not_supported
+2026-02-01 17:35,"MORE GYM GIVES MORE SLEEP
+",,,0.0757,Low,Math,freetime,health,0.133,supported
+2026-02-01 17:36,"A STUDENT WHO GOES TO GYM MORE GETS MORE SLEEP
+",,,0.0757,Low,Math,freetime,health,0.133,supported
+2026-02-01 17:36,"A STUDENT WHO GOES TO GYM MORE GETS MORE SLEEP
+",,,0.0757,Low,Math,freetime,health,0.133,supported
+2026-02-01 17:37,A STUDENT WHO BINGE WATCHES MORE GET LESS MARKS,,,0.0757,Low,Math,freetime,health,0.133,undetermined
+2026-02-01 17:38,Higher weekly study time leads to higher final gra...,,,0.0978,Low,Math,studytime,G3,0.0521,supported
+2026-02-01 17:53,students who binge watches more gets less marks,,,0.0978,Low,Math,studytime,G3,0.0521,undetermined
+2026-02-01 17:57,students who binge watches more gets less marks,,,0.0978,Low,Math,studytime,G3,0.0521,undetermined
+2026-02-01 18:18,students who binge watches more gets less marks,,,0.0978,Low,Math,studytime,G3,0.0521,undetermined
